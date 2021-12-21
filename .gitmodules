@@ -19,3 +19,6 @@
 [submodule "models/koclip-train"]
 	path = models/koclip-train
 	url = https://github.com/dovidovision/koclip-train.git
+[submodule "utils/label-meow"]
+	path = utils/label-meow
+	url = https://github.com/dovidovision/label-meow.git
