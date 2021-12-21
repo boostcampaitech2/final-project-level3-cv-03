@@ -10,3 +10,12 @@
 [submodule "backend/proxy-server"]
 	path = backend/proxy-server
 	url = https://github.com/dovidovision/proxy-server.git
+[submodule "models/segmodel-train"]
+	path = models/segmodel-train
+	url = https://github.com/dovidovision/segmodel-train.git
+[submodule "models/kogpt2-train"]
+	path = models/kogpt2-train
+	url = https://github.com/dovidovision/kogpt2-train.git
+[submodule "models/koclip-train"]
+	path = models/koclip-train
+	url = https://github.com/dovidovision/koclip-train.git
