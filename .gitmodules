@@ -4,3 +4,6 @@
 [submodule "backend/flask-api"]
 	path = backend/flask-api
 	url = https://github.com/dovidovision/flask-api.git
+[submodule "frontend/react-web"]
+	path = frontend/react-web
+	url = https://github.com/dovidovision/react-web.git
