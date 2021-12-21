@@ -1,24 +1,32 @@
 [submodule "frontend/android-app"]
 	path = frontend/android-app
 	url = https://github.com/dovidovision/android-app.git
+	branch = master
 [submodule "backend/flask-api"]
 	path = backend/flask-api
 	url = https://github.com/dovidovision/flask-api.git
+	branch = master
 [submodule "frontend/react-web"]
 	path = frontend/react-web
 	url = https://github.com/dovidovision/react-web.git
+	branch = master
 [submodule "backend/proxy-server"]
 	path = backend/proxy-server
 	url = https://github.com/dovidovision/proxy-server.git
+	branch = main
 [submodule "models/segmodel-train"]
 	path = models/segmodel-train
 	url = https://github.com/dovidovision/segmodel-train.git
+	branch = master
 [submodule "models/kogpt2-train"]
 	path = models/kogpt2-train
 	url = https://github.com/dovidovision/kogpt2-train.git
+	branch = master
 [submodule "models/koclip-train"]
 	path = models/koclip-train
 	url = https://github.com/dovidovision/koclip-train.git
+	branch = main
 [submodule "utils/label-meow"]
 	path = utils/label-meow
 	url = https://github.com/dovidovision/label-meow.git
+	branch = main
