@@ -7,3 +7,6 @@
 [submodule "frontend/react-web"]
 	path = frontend/react-web
 	url = https://github.com/dovidovision/react-web.git
+[submodule "backend/proxy-server"]
+	path = backend/proxy-server
+	url = https://github.com/dovidovision/proxy-server.git
