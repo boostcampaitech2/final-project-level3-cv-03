@@ -1,0 +1,6 @@
+[submodule "frontend/android-app"]
+	path = frontend/android-app
+	url = https://github.com/dovidovision/android-app.git
+[submodule "backend/flask-api"]
+	path = backend/flask-api
+	url = https://github.com/dovidovision/flask-api.git
